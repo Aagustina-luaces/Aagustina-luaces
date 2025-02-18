@@ -1,6 +1,6 @@
 # ¡Hola! Soy Agustina Luaces 👋
 
-Apasionada **Analista de datos**, **profesora de matematica en educacion secundaria** , diplomada en **marketing digital y community manager**. Mi pasión por los datos y la tecnología me motiva a seguir aprendiendo y creciendo.
+Apasionada **analista de datos**, **profesora de matematica en educacion secundaria** , diplomada en **marketing digital y community manager**. Mi pasión por los datos y la tecnología me motiva a seguir aprendiendo y creciendo.
 
 🚀 **He desarrollado diversos proyectos, tanto individuales como grupal en la academia Soy Henry**, donde me estoy especializando en **análisis de datos** con herramientas como **Power BI**, **Python** y **SQL**.
 
