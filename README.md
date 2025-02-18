@@ -41,3 +41,10 @@ Apasionada **analista de datos**, **profesora de matemática en educación secun
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o deseas colaborar en proyectos de datos, no dudes en contactarme. Estoy siempre abierta a nuevas oportunidades y desafíos.
 
+
+
+
+![Contributions Calendar](https://github-readme-streak-stats.herokuapp.com/?user=Aagustina-luaces&theme=radical)
+
+
+
