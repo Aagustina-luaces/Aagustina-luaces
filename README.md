@@ -4,7 +4,7 @@ Apasionada **analista de datos**, **profesora de matematica en educacion secunda
 
 🚀 **He desarrollado diversos proyectos, tanto individuales como grupal en la academia Soy Henry**, donde me estoy especializando en **análisis de datos** con herramientas como **Power BI**, **Python** y **SQL**.
 
-## 🧑‍💻 Habilidades
+## 🧑‍💻 Habilidades tecnicas
 - **Análisis de datos**: Trabajo con grandes volúmenes de datos para generar insights clave.
 - **Marketing digital**: Ayudo a pequeñas empresas a crecer en el ámbito digital.
 - **Herramientas**:
